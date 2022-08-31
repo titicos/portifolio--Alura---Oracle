@@ -1,0 +1,38 @@
+@media(max-width:360px){
+    .apresentacao{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .container-apresentacao{
+        width: 100%;
+        text-align: justify;
+    }
+
+    #formulario{
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    .container-formulario{
+        width: 80%;
+        margin: 0 auto;
+    }
+    .imagem-experiencia{
+        width: 80%;
+    }
+
+    .formacao{
+        width: 80%;
+    }
+    .links{
+        display: flex;
+        margin: 20px 0px;
+    }
+
+    .links li{
+        margin-right: 10px;
+        font-family: 'Raleway', sans-serif;
+        font-size: 16px;
+        }
+}

@@ -1,0 +1,47 @@
+@media(max-width:768px){
+
+    header{
+        width: 100%;
+    }
+    .apresentacao{
+     margin-left: 5%;
+     margin-right: 5%;
+    }
+    .menu{
+        display: none;
+    }
+    .myemail{
+        display: block;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 700;
+        color: dodgerblue;
+    }
+
+    .foto-perfil{
+        max-width: 150px;
+    }
+    .container-experiencia{
+        margin-bottom: 100px;
+        display: flex;
+        flex-direction: column;
+    }
+    .container-paragrafos{
+        width: 90%;
+    }
+    .container-botoes{
+        width: 50%;
+
+    }
+
+    .imagem-experiencia{
+      width: 300px;
+    }
+
+    .phone{
+        display: none;
+    }
+
+    .container-apresentaçao h1{
+        font-size: 16px;
+    }
+}
