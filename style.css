@@ -129,6 +129,10 @@ header{
     font-weight: 400;
 }
 
+.texto-sobre{
+    font-weight: 600;
+    line-height: 2em;
+}
 .skills_e_hobbies{
     background: #F5F5F5;
     width: 100%;
@@ -165,6 +169,7 @@ font-family: 'Raleway', sans-serif;
     flex-direction: column;
     justify-content: flex-end;
     border: solid dodgerblue 2px;
+    color: dodgerblue;
  
 }
 
